@@ -1,2 +1,2 @@
-"Select3D",
-"UzumakiNaruto",
+"Select3D"
+"UzumakiNaruto"
