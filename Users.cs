@@ -1,3 +1,1 @@
-Select3D
-UzumakîNaruto
-STARTED
+Select3D, UzumakîNaruto, STARTED,
